@@ -104,7 +104,7 @@ button:nth-child(2){
 
 }
 .circle:nth-child(2){
-   background-image: url("image/ssc\ photo\ 2\ ishan.jpg");
+   background-image: url("./image/ssc\ photo\ 2\ ishan.jpg");
     width: 30rem;
     background-size: 100%;
 }
